@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Scope+One&display=swap');
+
+
+.font{
+  font-family: "Scope One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+button{
+  border: 1px solid black;
+  border-radius: 10px; 
+}
+
+button:hover{
+  background-color: #8d99ae;
+  transition: 0.3s;
+}
